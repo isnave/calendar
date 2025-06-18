@@ -1,0 +1,18 @@
+{
+    "css": ".CALENDAR-INDEX-1, .CALENDAR-INDEX-1 .dhx_body, .CALENDAR-INDEX-1 .dhx_title  { background-color: #fdeab4; } \n.CALENDAR-INDEX-2, .CALENDAR-INDEX-2 .dhx_body, .CALENDAR-INDEX-2 .dhx_title  { background-color: #adc6ff; } \n.dhx_cal_navline, .dhx_scale_bar, .dhx_cal_container, .dhx_cal_header, .dhx_cal_scale_placeholder, .dhx_scale_holder, .dhx_scale_hour {background-color: #d7e3fe;}.event, .dhx_cal_tab.active, .dhx_cal_tab.active:hover {background-color: #d6ffe2;} .dhx_month_head, .dhx_cal_tab, .dhx_cal_today_button {color: #d6ffe2;} .dhx_cal_tab, .dhx_cal_tab.active {border-color: #d6ffe2;}.dhx_scale_holder_now, .dhx_now .dhx_month_head, .dhx_now .dhx_month_body { background-color: #ffe2a3;}",
+    "language": "es",
+    "skin": "terrace",
+    "tabs": [
+        "month",
+        "week",
+        "day",
+        "agenda"
+    ],
+    "timezone": "Europe/Madrid",
+    "title": "Open Web Calendar inv",
+    "url": [
+        "https://calendar.google.com/calendar/ical/isnave%40gmail.com/private-3547c20eb30ccd2f246950c954c19761/basic.ics",
+        "https://outlook.office365.com/owa/calendar/86eeab03a83e4a58b682fb5b62bd4bda@travelport.com/e54e590e0eca484087e5e2c20efbf51b3127786563007348538/calendar.ics",
+        "https://outlook.office365.com/owa/calendar/86eeab03a83e4a58b682fb5b62bd4bda@travelport.com/4664bc8cd60d4d26b72177d6292d25ce160920330406319291/calendar.ics"
+    ]
+}
